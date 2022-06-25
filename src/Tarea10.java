@@ -45,6 +45,10 @@ public class Tarea10 {
             }
         } while (opcionIndice!=5);
         JOptionPane.showMessageDialog(null, "Haz salido con exito!");
+
+        System.out.println("Esto es un mensaje de prueba para github");
         System.out.println("Hago otro mensaje de prueba");
+
+
     }
 }
