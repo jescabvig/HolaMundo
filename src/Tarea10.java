@@ -45,6 +45,6 @@ public class Tarea10 {
             }
         } while (opcionIndice!=5);
         JOptionPane.showMessageDialog(null, "Haz salido con exito!");
-
+        System.out.println("Hago otro mensaje de prueba");
     }
 }
